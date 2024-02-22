@@ -1,0 +1,8 @@
+name: Bungeecord-Engine
+
+# MYSQL DATABASE
+database:
+  host: "localhost:3306"
+  username: "root"
+  database: "main"
+  password: ""

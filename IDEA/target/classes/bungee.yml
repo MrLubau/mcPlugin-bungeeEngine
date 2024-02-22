@@ -1,0 +1,3 @@
+name: bungeeengine
+version: '1.0-SNAPSHOT'
+main: eu.mrlubau.bungeeengine.Bungee_engine
